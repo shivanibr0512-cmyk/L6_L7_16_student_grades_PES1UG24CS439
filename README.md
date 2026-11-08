@@ -1,17 +1,11 @@
-# L6_16_student_grades — Student Grades
-SRN- PES1UG24CS439
+# PES1UG24CS439 - Student Grades
 
-Lab 6: Code and Branch Coverage
+This repository contains Lab 6 and Lab 7 assignments.
 
-## About
+## Labs
 
-A small Python module that converts marks to letter grades, works out final marks with a project bonus and checks exam eligibility.
+### Lab 6 - Code and Branch Coverage
+Contains the student grades application and coverage testing files.
 
-## Files
-
-| File | Description |
-|------|-------------|
-| `student_grades.py` | The module under test |
-| `test_student_grades.py` | Starter test file |
-
-Refer to the lab handout for instructions.
+### Lab 7 - Fuzz Testing
+Contains the student grades application tested and fixed using Hypothesis fuzz testing.
